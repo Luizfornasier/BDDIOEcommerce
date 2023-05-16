@@ -15,3 +15,4 @@ Entrega – Possui status e código de rastreio;
 
 Abaixo, segue a evidência:
 
+<img src="https://github.com/Luizfornasier/BDDIOEcommerce/issues/1#issue-1711944874" width="0px" />
